@@ -3,6 +3,8 @@
 App Android de directorio que consume la API pública **JSONPlaceholder**.
 Kotlin · Jetpack Compose · MVVM · Retrofit · Room · Navigation Compose.
 
+📄 Informe de entrega: [docs/Informe_Tarea5_Directorio.pdf](docs/Informe_Tarea5_Directorio.pdf)
+
 | Requisito | Dónde |
 |---|---|
 | 1. Lista de usuarios (nombre, correo, `company.name`) | `ui/usuarios/` ← `GET /users` |
